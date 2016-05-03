@@ -1,0 +1,15 @@
+body{
+
+}
+.navbar-dark{
+	background: #2c3e50;
+	color:#e74c3c;
+}
+.navbar-brand{
+	color:#e74c3c;
+}
+
+#posting:hover{
+    background: #dff1ff;
+    cursor: pointer;
+}
